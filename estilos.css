@@ -1,49 +1,82 @@
- <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-            background-color: #808080; /* Gris */
-            color: #FFFFFF; /* Blanco */
+ cuerpo {
+    familia de fuentes :  'Arial' , sans-serif;
+    margen :  0 ;
+    relleno :  0 ;
+}
+
+encabezado {
+    color de fondo :  # 3498db ;
+    color :  #fff ; _
+    alineación de texto : centro;
+    relleno :  1 em  0 ;
+}
+
+sección {
+    margen :  20 px  0 ;
+}
+
+. divisor de sección {
+        borde inferior :  2 px sólido # 808080 ; /*Gris*/
+        margen inferior :  20 px ;
+    }
+
+h2 {
+    color :  # 3498db ;
+}
+
+pie de página {
+    color de fondo :  # f1f1f1 ;
+    alineación de texto : centro;
+    relleno :  1 em  0 ;
+}
+
+/* Personaliza el estilo según tus preferencias */
+    <estilo> _
+        cuerpo {
+familia de             fuentes :  'Arial' ,  sans-serif ;
+            margen : 20px;
+            color de fondo :  # 808080; /*Gris*/
+            color :  #FFFFFF ; /*Blanco*/
         }
 
-        h1, h2, h3 {
-            color: #FFFFFF; /* Blanco */
+        h1 ,  h2 ,  h3 {
+            color :  #FFFFFF ; _ /*Blanco*/
         }
 
-        p {
-            line-height: 1.6;
-            color: #FFFFFF; /* Blanco */
+        pag {
+            altura de línea :  1,6 ;
+            color :  #FFFFFF ; _ /*Blanco*/
         }
 
-        .section-divider {
-            border-bottom: 2px solid #FFFFFF; /* Blanco */
-            margin-bottom: 20px;
+        . divisor de sección {
+            borde inferior :  2 px sólido # FFFFFF ; /*Blanco*/
+            margen inferior :  20 px ;
         }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
+        mesa {
+            ancho :  100 % ;
+            colapso fronterizo : colapso;
+            margen inferior :  20 px ;
         }
 
-        th, td {
-            border: 1px solid #FFFFFF; /* Blanco */
-            padding: 10px;
-            text-align: left;
+        th ,  td {
+            borde :  1 px sólido #FFFFFF ; _ /*Blanco*/
+            relleno :  10 píxeles ;
+            alineación de texto : izquierda;
         }
 
-        img {
-            max-width: 100%;
-            height: auto;
+        imagen {
+            ancho máximo :  100 % ;
+            altura : automático;
         }
 
-        .collapsible-content {
-            display: none;
+        . contenido plegable {
+            pantalla : ninguna;
         }
 
-        .collapsible-header {
-            cursor: pointer;
+        . encabezado plegable {
+            cursor : puntero;
         }
-    </style>
-</head>
-<body>
+    < / estilo >
+< / cabeza >
+<cuerpo> _
