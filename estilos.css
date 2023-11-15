@@ -16,7 +16,7 @@ sección {
 }
 
 . divisor de sección {
-        borde inferior :  2 px sólido # 808080 ; /*Gris*/
+        borde inferior :  2 px sólido # 808080 ;
         margen inferior :  20 px ;
     }
 
@@ -30,26 +30,26 @@ pie de página {
     relleno :  1 em  0 ;
 }
 
-/* Personaliza el estilo según tus preferencias */
+
     <estilo> _
         cuerpo {
 familia de             fuentes :  'Arial' ,  sans-serif ;
             margen : 20px;
-            color de fondo :  # 808080; /*Gris*/
-            color :  #FFFFFF ; /*Blanco*/
+            color de fondo :  # 808080;
+            color :  #FFFFFF ; 
         }
 
         h1 ,  h2 ,  h3 {
-            color :  #FFFFFF ; _ /*Blanco*/
+            color :  #FFFFFF ; 
         }
 
         pag {
             altura de línea :  1,6 ;
-            color :  #FFFFFF ; _ /*Blanco*/
+            color :  #FFFFFF ; 
         }
 
         . divisor de sección {
-            borde inferior :  2 px sólido # FFFFFF ; /*Blanco*/
+            borde inferior :  2 px sólido # FFFFFF ; 
             margen inferior :  20 px ;
         }
 
@@ -60,7 +60,7 @@ familia de             fuentes :  'Arial' ,  sans-serif ;
         }
 
         th ,  td {
-            borde :  1 px sólido #FFFFFF ; _ /*Blanco*/
+            borde :  1 px sólido #FFFFFF ; 
             relleno :  10 píxeles ;
             alineación de texto : izquierda;
         }
