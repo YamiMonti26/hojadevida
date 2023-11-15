@@ -45,17 +45,6 @@
             cursor: pointer;
         }
 
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tus Estilos</title>
-    <style>
-        #informacion p {
-            font-weight: bold;
-            color: blue; /* Puedes cambiar el color a tu preferencia */
-        }
-
         /* Colores específicos para cada título */
         #informacion p:nth-child(1) {
             color: red; /* Color para Correo */
@@ -83,9 +72,7 @@
             <p>Linkedin: https://www.linkedin.com/in/rosa-yamira-montenegro-hernandez/ </p>
             <p>Dirección: Villavicencio / Meta / Colombia </p>
         </div>
-    </section>
-</body>
-</html>
+
     </style>
 </head>
 <body>
