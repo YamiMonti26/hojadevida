@@ -1,4 +1,4 @@
-    <style>
+ <style>
         body {
             font-family: 'Arial', sans-serif;
             margin: 20px;
@@ -44,35 +44,6 @@
         .collapsible-header {
             cursor: pointer;
         }
-
-        /* Colores específicos para cada título */
-        #informacion p:nth-child(1) {
-            color: red; /* Color para Correo */
-        }
-
-        #informacion p:nth-child(2) {
-            color: green; /* Color para Celular */
-        }
-
-        #informacion p:nth-child(3) {
-            color: orange; /* Color para Linkedin */
-        }
-
-        #informacion p:nth-child(4) {
-            color: purple; /* Color para Dirección */
-        }
-    </style>
-</head>
-<body>
-    <section>
-        <h2 class="collapsible-header" onclick="toggleSection('informacion')">Mi Información</h2>
-        <div id="informacion" class="collapsible-content">
-            <p>Correo: rmontenegroh@ucompensar.edu.co </p>
-            <p>Celular: +57 3124973133 </p>
-            <p>Linkedin: https://www.linkedin.com/in/rosa-yamira-montenegro-hernandez/ </p>
-            <p>Dirección: Villavicencio / Meta / Colombia </p>
-        </div>
-
     </style>
 </head>
 <body>
